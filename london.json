@@ -1,6 +1,6 @@
 {
 	"network": {
-		"stn_name": "London"
+		"name": "London"
 	},
 
 	"locations": {
