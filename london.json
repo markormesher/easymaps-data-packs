@@ -6,77 +6,70 @@
 	"locations": {
 		"atr_london-eye": {
 			"title": "The London Eye",
-			"image": "http://londonairportransfers.com/wp-content/uploads/2016/01/London-Eye-information.jpg",
+			"image": "https://raw.githubusercontent.com/markormesher/easymaps-data-packs/master/london-images/london-eye.jpg",
 			"type": "attraction",
 			"lat": 0,
 			"lon": 0
 		},
 		"atr_big-ben": {
 			"title": "Big Ben",
-			"image": "https://cdn.getyourguide.com/niwziy2l9cvz/33fpoAXMDSoIYaWYygG4KE/4a121da4da937e3a9f0d4538c8606bac/london-bigben-1500x850.jpg",
+			"image": "https://raw.githubusercontent.com/markormesher/easymaps-data-packs/master/london-images/big-ben.jpg",
 			"type": "attraction",
 			"lat": 0,
 			"lon": 0
 		},
 		"atr_sky-garden": {
 			"title": "Sky Garden",
-			"image": "http://crazycowevents.com/wp-content/uploads/2015/06/Sky-Garden-Summer.jpg",
+			"image": "https://raw.githubusercontent.com/markormesher/easymaps-data-packs/master/london-images/sky-garden.jpg",
 			"type": "attraction",
 			"lat": 0,
 			"lon": 0
 		},
 		"atr_buckingham-palace": {
 			"title": "Buckingham Palace",
-			"image": "http://cdn.londonandpartners.com/asset/buckingham-palace-tour-summer-opening-2015-ad00c5354eb7aff837932abb96167006.jpg",
+			"image": "https://raw.githubusercontent.com/markormesher/easymaps-data-packs/master/london-images/buckingham-palace.jpg",
 			"type": "attraction",
 			"lat": 0,
 			"lon": 0
 		},
 		"atr_trafalgar-square": {
 			"title": "Trafalgar Square",
-			"image": "https://www.london.gov.uk/sites/default/files/styles/gla_2_1_large/public/business-t-square-5649.jpg?itok=w2EyyvyJ",
+			"image": "https://raw.githubusercontent.com/markormesher/easymaps-data-packs/master/london-images/trafalgar-square.jpg",
 			"type": "attraction",
 			"lat": 0,
 			"lon": 0
 		},
 		"atr_tower-bridge": {
 			"title": "Tower Bridge",
-			"image": "http://cdn.londonandpartners.com/asset/a9e3135930f74120799649654fec1a9f.jpg",
+			"image": "https://raw.githubusercontent.com/markormesher/easymaps-data-packs/master/london-images/tower-bridge.jpg",
 			"type": "attraction",
 			"lat": 0,
 			"lon": 0
 		},
 		"atr_marble-arch": {
 			"title": "Marble Arch",
-			"image": "https://i.ytimg.com/vi/JNl5JtcwRBA/maxresdefault.jpg",
+			"image": "https://raw.githubusercontent.com/markormesher/easymaps-data-packs/master/london-images/marble-arch.jpg",
 			"type": "attraction",
 			"lat": 0,
 			"lon": 0
 		},
 		"atr_hyde-park": {
 			"title": "Hyde Park",
-			"image": "http://www.qualitycrown.com/assets/Uploads/italian-garden-hyde-park-london.jpg",
-			"type": "attraction",
-			"lat": 0,
-			"lon": 0
-		},
-		"atr_admirals-nose": {
-			"title": "Admiral's Nose",
-			"image": "http://www.aviewoncities.com/img/london/kveen2456s.jpg",
-			"type": "attraction",
-			"lat": 0,
-			"lon": 0
-		},
-		"atr_parliament-hill": {
-			"title": "Parliament Hill",
-			"image": "https://media-cdn.tripadvisor.com/media/photo-s/07/fc/17/f7/parliament-hill-fields.jpg",
+			"image": "https://raw.githubusercontent.com/markormesher/easymaps-data-packs/master/london-images/hyde-park.jpg",
 			"type": "attraction",
 			"lat": 0,
 			"lon": 0
 		},
 		"atr_somerset-house": {
 			"title": "Somerset House",
-			"image": "http://cdn.londonandpartners.com/asset/c5441e5d79e0668e4db47cc9966cedc9.jpg",
+			"image": "https://raw.githubusercontent.com/markormesher/easymaps-data-packs/master/london-images/somerset-house.jpg",
+			"type": "attraction",
+			"lat": 0,
+			"lon": 0
+		},
+		"atr_tate-modern": {
+			"title": "Tate Modern",
+			"image": "https://raw.githubusercontent.com/markormesher/easymaps-data-packs/master/london-images/tate-modern.jpg",
 			"type": "attraction",
 			"lat": 0,
 			"lon": 0
