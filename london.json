@@ -143,8 +143,8 @@
 		},
 		"stn_bank-monument": {
 			"title": "Bank/Monument",
-			"lat": 0,
-			"lon": 0,
+			"lat": 51.5134047,
+			"lon": -0.08905843,
 			"type": "station"
 		},
 		"stn_barbican": {
@@ -299,8 +299,8 @@
 		},
 		"stn_canning-town": {
 			"title": "Canning Town",
-			"lat": 0,
-			"lon": 0,
+			"lat": 51.5140048,
+			"lon": 0.0062298,
 			"type": "station"
 		},
 		"stn_cannon-street": {
@@ -317,8 +317,8 @@
 		},
 		"stn_chalfront-and-latimer": {
 			"title": "Chalfront and Latimer",
-			"lat": 0,
-			"lon": 0,
+			"lat": 51.66822,
+			"lon": -0.56053,
 			"type": "station"
 		},
 		"stn_chalk-farm": {
@@ -485,20 +485,20 @@
 		},
 		"stn_edgeware": {
 			"title": "Edgeware",
-			"lat": 0,
-			"lon": 0,
+			"lat": 51.61385,
+			"lon": -0.27515,
 			"type": "station"
 		},
 		"stn_edgeware-road-b": {
 			"title": "Edgeware Road (B)",
-			"lat": 0,
-			"lon": 0,
+			"lat": 51.519560,
+			"lon": -0.169068,
 			"type": "station"
 		},
 		"stn_edgeware-road-c": {
 			"title": "Edgeware Road (C)",
-			"lat": 0,
-			"lon": 0,
+			"lat": 51.520195,
+			"lon": -0.166986,
 			"type": "station"
 		},
 		"stn_elephant-and-castle": {
@@ -641,14 +641,14 @@
 		},
 		"stn_hammersmith-chc": {
 			"title": "Hammersmith (CHC)",
-			"lat": 0,
-			"lon": 0,
+			"lat": 51.494190748,
+			"lon": -0.225964953,
 			"type": "station"
 		},
 		"stn_hammersmith-dp": {
 			"title": "Hammersmith (DP)",
-			"lat": 0,
-			"lon": 0,
+			"lat": 51.492328,
+			"lon": -0.222825,
 			"type": "station"
 		},
 		"stn_hampstead": {
@@ -689,20 +689,20 @@
 		},
 		"stn_heathrow-t123": {
 			"title": "Heathrow T123",
-			"lat": 0,
-			"lon": 0,
+			"lat": 51.4712899,
+			"lon": -0.4527438,
 			"type": "station"
 		},
 		"stn_heathrow-t4": {
 			"title": "Heathrow T4",
-			"lat": 0,
-			"lon": 0,
+			"lat": 51.4594777,
+			"lon": -0.44689658,
 			"type": "station"
 		},
 		"stn_heathrow-t5": {
 			"title": "Heathrow T5",
-			"lat": 0,
-			"lon": 0,
+			"lat": 51.4726054,
+			"lon": -0.4893318,
 			"type": "station"
 		},
 		"stn_hendon-central": {
@@ -1097,14 +1097,14 @@
 		},
 		"stn_paddington-b": {
 			"title": "Paddington (B)",
-			"lat": 0,
-			"lon": 0,
+			"lat": 51.5151846554,
+			"lon": -0.17553880792,
 			"type": "station"
 		},
 		"stn_paddington-c": {
 			"title": "Paddington (C)",
-			"lat": 0,
-			"lon": 0,
+			"lat": 51.519096707,
+			"lon": -0.176968859,
 			"type": "station"
 		},
 		"stn_park-royal": {
@@ -1245,10 +1245,10 @@
 			"lon": -0.41185,
 			"type": "station"
 		},
-		"stn_russel-square": {
-			"title": "Russel Square",
-			"lat": 0,
-			"lon": 0,
+		"stn_russell-square": {
+			"title": "Russell Square",
+			"lat": 51.523243,
+			"lon": -0.124336,
 			"type": "station"
 		},
 		"stn_seven-sisters": {
@@ -1269,10 +1269,10 @@
 			"lon": -0.226231,
 			"type": "station"
 		},
-		"stn_slonne-square": {
-			"title": "Slonne Square",
-			"lat": 0,
-			"lon": 0,
+		"stn_sloane-square": {
+			"title": "Sloane Square",
+			"lat": 51.49258474,
+			"lon": -0.156090904,
 			"type": "station"
 		},
 		"stn_snaresbrook": {
@@ -1361,8 +1361,8 @@
 		},
 		"stn_st-james-park": {
 			"title": "St. Jame's Park",
-			"lat": 0,
-			"lon": 0,
+			"lat": 51.49971,
+			"lon": -0.13394,
 			"type": "station"
 		},
 		"stn_st-johns-wood": {
@@ -1419,10 +1419,10 @@
 			"lon": -0.11341,
 			"type": "station"
 		},
-		"stn_theydon-bols": {
-			"title": "Theydon Bols",
-			"lat": 0,
-			"lon": 0,
+		"stn_theydon-bois": {
+			"title": "Theydon Bois",
+			"lat": 51.67246,
+			"lon": 0.10354,
 			"type": "station"
 		},
 		"stn_tooting-bec": {
@@ -1679,8 +1679,8 @@
 		},
 		"stn_wood-lane": {
 			"title": "Wood Lane",
-			"lat": 0,
-			"lon": 0,
+			"lat": 51.5100237,
+			"lon": -0.2264951,
 			"type": "station"
 		},
 		"stn_woodside-park": {
@@ -1800,10 +1800,10 @@
 		{ "from": "stn_loughton", "to": "stn_buckhurst-hill", "mode": "tube/central", "cost": 1 },
 		{ "from": "stn_loughton", "to": "stn_debden", "mode": "tube/central", "cost": 1 },
 		{ "from": "stn_debden", "to": "stn_loughton", "mode": "tube/central", "cost": 1 },
-		{ "from": "stn_debden", "to": "stn_theydon-bols", "mode": "tube/central", "cost": 1 },
-		{ "from": "stn_theydon-bols", "to": "stn_debden", "mode": "tube/central", "cost": 1 },
-		{ "from": "stn_theydon-bols", "to": "stn_epping", "mode": "tube/central", "cost": 1 },
-		{ "from": "stn_epping", "to": "stn_theydon-bols", "mode": "tube/central", "cost": 1 },
+		{ "from": "stn_debden", "to": "stn_theydon-bois", "mode": "tube/central", "cost": 1 },
+		{ "from": "stn_theydon-bois", "to": "stn_debden", "mode": "tube/central", "cost": 1 },
+		{ "from": "stn_theydon-bois", "to": "stn_epping", "mode": "tube/central", "cost": 1 },
+		{ "from": "stn_epping", "to": "stn_theydon-bois", "mode": "tube/central", "cost": 1 },
 		{ "from": "stn_leytonstone", "to": "stn_wanstead", "mode": "tube/central", "cost": 1 },
 		{ "from": "stn_wanstead", "to": "stn_leytonstone", "mode": "tube/central", "cost": 1 },
 		{ "from": "stn_wanstead", "to": "stn_redbridge", "mode": "tube/central", "cost": 1 },
@@ -1898,10 +1898,10 @@
 		{ "from": "stn_st-james-park", "to": "stn_westminster", "mode": "tube/circle", "cost": 1 },
 		{ "from": "stn_st-james-park", "to": "stn_victoria", "mode": "tube/circle", "cost": 1 },
 		{ "from": "stn_victoria", "to": "stn_st-james-park", "mode": "tube/circle", "cost": 1 },
-		{ "from": "stn_victoria", "to": "stn_slonne-square", "mode": "tube/circle", "cost": 1 },
-		{ "from": "stn_slonne-square", "to": "stn_victoria", "mode": "tube/circle", "cost": 1 },
-		{ "from": "stn_slonne-square", "to": "stn_south-kensington", "mode": "tube/circle", "cost": 1 },
-		{ "from": "stn_south-kensington", "to": "stn_slonne-square", "mode": "tube/circle", "cost": 1 },
+		{ "from": "stn_victoria", "to": "stn_sloane-square", "mode": "tube/circle", "cost": 1 },
+		{ "from": "stn_sloane-square", "to": "stn_victoria", "mode": "tube/circle", "cost": 1 },
+		{ "from": "stn_sloane-square", "to": "stn_south-kensington", "mode": "tube/circle", "cost": 1 },
+		{ "from": "stn_south-kensington", "to": "stn_sloane-square", "mode": "tube/circle", "cost": 1 },
 		{ "from": "stn_south-kensington", "to": "stn_gloucester-road", "mode": "tube/circle", "cost": 1 },
 		{ "from": "stn_gloucester-road", "to": "stn_south-kensington", "mode": "tube/circle", "cost": 1 },
 		{ "from": "stn_gloucester-road", "to": "stn_high-street-kensington", "mode": "tube/circle", "cost": 1 },
@@ -1962,10 +1962,10 @@
 		{ "from": "stn_gloucester-road", "to": "stn_earls-court", "mode": "tube/district", "cost": 1 },
 		{ "from": "stn_gloucester-road", "to": "stn_south-kensington", "mode": "tube/district", "cost": 1 },
 		{ "from": "stn_south-kensington", "to": "stn_gloucester-road", "mode": "tube/district", "cost": 1 },
-		{ "from": "stn_south-kensington", "to": "stn_slonne-square", "mode": "tube/district", "cost": 1 },
-		{ "from": "stn_slonne-square", "to": "stn_south-kensington", "mode": "tube/district", "cost": 1 },
-		{ "from": "stn_slonne-square", "to": "stn_victoria", "mode": "tube/district", "cost": 1 },
-		{ "from": "stn_victoria", "to": "stn_slonne-square", "mode": "tube/district", "cost": 1 },
+		{ "from": "stn_south-kensington", "to": "stn_sloane-square", "mode": "tube/district", "cost": 1 },
+		{ "from": "stn_sloane-square", "to": "stn_south-kensington", "mode": "tube/district", "cost": 1 },
+		{ "from": "stn_sloane-square", "to": "stn_victoria", "mode": "tube/district", "cost": 1 },
+		{ "from": "stn_victoria", "to": "stn_sloane-square", "mode": "tube/district", "cost": 1 },
 		{ "from": "stn_victoria", "to": "stn_st-james-park", "mode": "tube/district", "cost": 1 },
 		{ "from": "stn_st-james-park", "to": "stn_victoria", "mode": "tube/district", "cost": 1 },
 		{ "from": "stn_st-james-park", "to": "stn_westminster", "mode": "tube/district", "cost": 1 },
@@ -2310,10 +2310,10 @@
 		{ "from": "stn_covent-garden", "to": "stn_leicester-square", "mode": "tube/piccadilly", "cost": 1 },
 		{ "from": "stn_covent-garden", "to": "stn_holborn", "mode": "tube/piccadilly", "cost": 1 },
 		{ "from": "stn_holborn", "to": "stn_covent-garden", "mode": "tube/piccadilly", "cost": 1 },
-		{ "from": "stn_holborn", "to": "stn_russel-square", "mode": "tube/piccadilly", "cost": 1 },
-		{ "from": "stn_russel-square", "to": "stn_holborn", "mode": "tube/piccadilly", "cost": 1 },
-		{ "from": "stn_russel-square", "to": "stn_kings-cross-st-pancras", "mode": "tube/piccadilly", "cost": 1 },
-		{ "from": "stn_kings-cross-st-pancras", "to": "stn_russel-square", "mode": "tube/piccadilly", "cost": 1 },
+		{ "from": "stn_holborn", "to": "stn_russell-square", "mode": "tube/piccadilly", "cost": 1 },
+		{ "from": "stn_russell-square", "to": "stn_holborn", "mode": "tube/piccadilly", "cost": 1 },
+		{ "from": "stn_russell-square", "to": "stn_kings-cross-st-pancras", "mode": "tube/piccadilly", "cost": 1 },
+		{ "from": "stn_kings-cross-st-pancras", "to": "stn_russell-square", "mode": "tube/piccadilly", "cost": 1 },
 		{ "from": "stn_kings-cross-st-pancras", "to": "stn_caledonian-road", "mode": "tube/piccadilly", "cost": 1 },
 		{ "from": "stn_caledonian-road", "to": "stn_kings-cross-st-pancras", "mode": "tube/piccadilly", "cost": 1 },
 		{ "from": "stn_caledonian-road", "to": "stn_holloway-road", "mode": "tube/piccadilly", "cost": 1 },
