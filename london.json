@@ -9,71 +9,71 @@
 			"title": "The London Eye",
 			"image": "https://raw.githubusercontent.com/markormesher/easymaps-data-packs/master/london-images/london-eye.jpg",
 			"type": "attraction",
-			"lat": 0,
-			"lon": 0
+			"lat": 51.5032973,
+			"lon": -0.1214741
 		},
 		"atr_big-ben": {
 			"title": "Big Ben",
 			"image": "https://raw.githubusercontent.com/markormesher/easymaps-data-packs/master/london-images/big-ben.jpg",
 			"type": "attraction",
-			"lat": 0,
-			"lon": 0
+			"lat": 51.500756,
+			"lon": -0.124661
 		},
 		"atr_sky-garden": {
 			"title": "Sky Garden",
 			"image": "https://raw.githubusercontent.com/markormesher/easymaps-data-packs/master/london-images/sky-garden.jpg",
 			"type": "attraction",
-			"lat": 0,
-			"lon": 0
+			"lat": 51.5110222,
+			"lon": -0.0860179
 		},
 		"atr_buckingham-palace": {
 			"title": "Buckingham Palace",
 			"image": "https://raw.githubusercontent.com/markormesher/easymaps-data-packs/master/london-images/buckingham-palace.jpg",
 			"type": "attraction",
-			"lat": 0,
-			"lon": 0
+			"lat": 51.501364,
+			"lon": -0.144084
 		},
 		"atr_trafalgar-square": {
 			"title": "Trafalgar Square",
 			"image": "https://raw.githubusercontent.com/markormesher/easymaps-data-packs/master/london-images/trafalgar-square.jpg",
 			"type": "attraction",
-			"lat": 0,
-			"lon": 0
+			"lat": 51.50809,
+			"lon": -0.1291406
 		},
 		"atr_tower-bridge": {
 			"title": "Tower Bridge",
 			"image": "https://raw.githubusercontent.com/markormesher/easymaps-data-packs/master/london-images/tower-bridge.jpg",
 			"type": "attraction",
-			"lat": 0,
-			"lon": 0
+			"lat": 51.5054564,
+			"lon": -0.0775505
 		},
 		"atr_marble-arch": {
 			"title": "Marble Arch",
 			"image": "https://raw.githubusercontent.com/markormesher/easymaps-data-packs/master/london-images/marble-arch.jpg",
 			"type": "attraction",
-			"lat": 0,
-			"lon": 0
+			"lat": 51.5131099,
+			"lon": -0.1611088
 		},
 		"atr_hyde-park": {
 			"title": "Hyde Park",
 			"image": "https://raw.githubusercontent.com/markormesher/easymaps-data-packs/master/london-images/hyde-park.jpg",
 			"type": "attraction",
-			"lat": 0,
-			"lon": 0
+			"lat": 51.5072682,
+			"lon": -0.1679243
 		},
 		"atr_somerset-house": {
 			"title": "Somerset House",
 			"image": "https://raw.githubusercontent.com/markormesher/easymaps-data-packs/master/london-images/somerset-house.jpg",
 			"type": "attraction",
-			"lat": 0,
-			"lon": 0
+			"lat": 51.511059,
+			"lon": -0.119342
 		},
 		"atr_tate-modern": {
 			"title": "Tate Modern",
 			"image": "https://raw.githubusercontent.com/markormesher/easymaps-data-packs/master/london-images/tate-modern.jpg",
 			"type": "attraction",
-			"lat": 0,
-			"lon": 0
+			"lat": 51.5075953,
+			"lon": -0.1015504
 		},
 		"stn_acton-town": {
 			"title": "Acton Town",
@@ -1690,6 +1690,7 @@
 			"type": "station"
 		}
 	},
+
 
 	"connections": [
 		{ "from": "stn_elephant-and-castle", "to": "stn_lambeth-north", "mode": "tube/bakerloo", "cost": 1 },
