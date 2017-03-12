@@ -1688,6 +1688,242 @@
 			"lat": 51.6181717295887,
 			"lon": -0.185578887883903,
 			"type": "station"
+		},
+
+
+		"stn_abbey-road": {
+			"title": "Abbey Road (DLR)",
+			"lat": 51.5324493,
+			"lon": 0.0016294,
+			"type": "station"
+		},
+		"stn_all-saints": {
+			"title": "All Saints (DLR)",
+			"lat": 51.510301,
+			"lon": 	-0.012832,
+			"type": "station"
+		},
+		"stn_beckton-park": {
+			"title": "Beckton Park (DLR)",
+			"lat": 51.508758,
+			"lon": 0.054778,
+			"type": "station"
+		},
+		"stn_beckton": {
+			"title": "Beckton (DLR)",
+			"lat": 	51.514411,
+			"lon": 0.061640,
+			"type": "station"
+		},
+		"stn_blackwall": {
+			"title": "Blackwall (DLR)",
+			"lat": 51.507903,
+			"lon": -0.007438,
+			"type": "station"
+		},
+		"stn_bow-church": {
+			"title": "Bow Church (DLR)",
+			"lat": 51.5289,
+			"lon": -0.0210,
+			"type": "station"
+		},
+		"stn_crossharbour": {
+			"title": "Crossharbour (DLR)",
+			"lat": 51.495086,
+			"lon": 	-0.014543,
+			"type": "station"
+		},
+		"stn_custom-house": {
+			"title": "Custom House (DLR)",
+			"lat": 51.509731,
+			"lon": 0.026013,
+			"type": "station"
+		},
+		"stn_cutty-sark": {
+			"title": "Cutty Sark (DLR)",
+			"lat": 51.481713,
+			"lon": 	-0.010811,
+			"type": "station"
+		},
+		"stn_cyprus": {
+			"title": "Cyprus (DLR)",
+			"lat": 	51.508360,
+			"lon": 0.063990,
+			"type": "station"
+		},
+		"stn_deptford-bridge": {
+			"title": "Deptford Bridge (DLR)",
+			"lat": 51.478016,
+			"lon": -0.022496,
+			"type": "station"
+		},
+		"stn_devons-road": {
+			"title": "Devons Road (DLR)",
+			"lat": 51.522274,
+			"lon": -0.017080,
+			"type": "station"
+		},
+		"stn_east-india": {
+			"title": "East India (DLR)",
+			"lat": 51.509516,
+			"lon": -0.002128,
+			"type": "station"
+		},
+		"stn_elverson-road": {
+			"title": "Elverson Road (DLR)",
+			"lat": 51.468768,
+			"lon": -0.016265,
+			"type": "station"
+		},
+		"stn_gallions-reach": {
+			"title": "Gallions Reach (DLR)",
+			"lat": 51.509111,
+			"lon": 0.071911,
+			"type": "station"
+		},
+		"stn_greenwich": {
+			"title": "Greenwich (DLR)",
+			"lat": 51.478016,
+			"lon": 	-0.015391,
+			"type": "station"
+		},
+		"stn_heron-quays": {
+			"title": "Heron Quays (DLR)",
+			"lat": 51.5046489,
+			"lon": -0.0207681,
+			"type": "station"
+		},
+		"stn_island-gardens": {
+			"title": "Island Gardens (DLR)",
+			"lat": 51.488001,
+			"lon": 	-0.011039,
+			"type": "station"
+		},
+		"stn_king-george-v": {
+			"title": "King George V (DLR)",
+			"lat": 51.50202,
+			"lon": 0.06299,
+			"type": "station"
+		},
+		"stn_langdon-park": {
+			"title": "Langdon Park (DLR)",
+			"lat": 51.5151784,
+			"lon": -0.0164164,
+			"type": "station"
+		},
+		"stn_lewisham": {
+			"title": "Lewisham (DLR)",
+			"lat": 51.465216,
+			"lon": 	-0.013166,
+			"type": "station"
+		},
+		"stn_limehouse": {
+			"title": "Limehouse (DLR)",
+			"lat": 51.5124366,
+			"lon": 	-0.0395511,
+			"type": "station"
+		},
+		"stn_london-city-airport": {
+			"title": "London City Airport (DLR)",
+			"lat": 51.50319,
+			"lon": 	0.04864,
+			"type": "station"
+		},
+		"stn_mudchute": {
+			"title": "Mudchute (DLR)",
+			"lat": 51.491185,
+			"lon": -0.014595,
+			"type": "station"
+		},
+		"stn_pontoon-dock": {
+			"title": "Pontoon Dock (DLR)",
+			"lat": 51.50205,
+			"lon": 0.03308,
+			"type": "station"
+		},
+		"stn_poplar": {
+			"title": "Poplar (DLR)",
+			"lat": 51.507725,
+			"lon": 	-0.016503,
+			"type": "station"
+		},
+		"stn_prince-regent": {
+			"title": "Prince Regent (DLR)",
+			"lat": 	51.509471,
+			"lon": 0.033473,
+			"type": "station"
+		},
+		"stn_pudding-mill-lane": {
+			"title": "Pudding Mill Lane (DLR)",
+			"lat": 51.5339,
+			"lon": 	-0.0142,
+			"type": "station"
+		},
+		"stn_royal-albert": {
+			"title": "Royal Albert (DLR)",
+			"lat": 51.508456,
+			"lon": 0.046148,
+			"type": "station"
+		},
+		"stn_royal-victoria": {
+			"title": "Royal Victoria (DLR)",
+			"lat": 51.509156,
+			"lon": 0.018083,
+			"type": "station"
+		},
+		"stn_shadwell": {
+			"title": "Shadwell (DLR)",
+			"lat": 51.511853,
+			"lon": 	-0.055480,
+			"type": "station"
+		},
+		"stn_south-quay": {
+			"title": "South Quay (DLR)",
+			"lat": 51.500413,
+			"lon": 	-0.018636,
+			"type": "station"
+		},
+		"stn_star-lane": {
+			"title": "Star Lane (DLR)",
+			"lat": 51.5207809,
+			"lon": 0.001856,
+			"type": "station"
+		},
+		"stn_stratford-high-street": {
+			"title": "Stratford High Street (DLR)",
+			"lat": 51.5383786,
+			"lon": -0.0033619,
+			"type": "station"
+		},
+		"stn_stratford-international": {
+			"title": "Stratford International (DLR)",
+			"lat": 51.544885,
+			"lon": -0.0109656,
+			"type": "station"
+		},
+		"stn_west-india-quay": {
+			"title": "West India Quay (DLR)",
+			"lat": 51.506723,
+			"lon": 	-0.019880,
+			"type": "station"
+		},
+		"stn_west-silvertown": {
+			"title": "West Silvertown (DLR)",
+			"lat": 51.50335,
+			"lon": 	0.02208,
+			"type": "station"
+		},
+		"stn_westferry": {
+			"title": "Westferry (DLR)",
+			"lat": 51.509576,
+			"lon": 	-0.026990,
+			"type": "station"
+		},
+		"stn_woolwich-arsenal": {
+			"title": "Woolwich Arsenal (DLR)",
+			"lat": 51.4900158,
+			"lon": 0.0667961,
+			"type": "station"
 		}
 	},
 
@@ -2551,6 +2787,110 @@
 
 
 		{ "from": "stn_bank-monument", "to": "stn_waterloo", "mode": "tube/waterloo-and-city", "cost": 240 },
-		{ "from": "stn_waterloo", "to": "stn_bank-monument", "mode": "tube/waterloo-and-city", "cost": 240 }
+		{ "from": "stn_waterloo", "to": "stn_bank-monument", "mode": "tube/waterloo-and-city", "cost": 240 },
+
+
+		{ "from": "stn_bank-monument", "to": "stn_shadwell", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_shadwell", "to": "stn_bank-monument", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_tower-hill", "to": "stn_shadwell", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_shadwell", "to": "stn_tower-hill", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_shadwell", "to": "stn_limehouse", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_limehouse", "to": "stn_shadwell", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_limehouse", "to": "stn_westferry", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_westferry", "to": "stn_limehouse", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_westferry", "to": "stn_poplar", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_poplar", "to": "stn_westferry", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_poplar", "to": "stn_blackwall", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_blackwall", "to": "stn_poplar", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_blackwall", "to": "stn_east-india", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_east-india", "to": "stn_blackwall", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_east-india", "to": "stn_canning-town", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_canning-town", "to": "stn_east-india", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_canning-town", "to": "stn_royal-victoria", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_royal-victoria", "to": "stn_canning-town", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_royal-victoria", "to": "stn_custom-house", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_custom-house", "to": "stn_royal-victoria", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_custom-house", "to": "stn_prince-regent", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_prince-regent", "to": "stn_custom-house", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_prince-regent", "to": "stn_royal-albert", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_royal-albert", "to": "stn_prince-regent", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_royal-albert", "to": "stn_beckton-park", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_beckton-park", "to": "stn_royal-albert", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_beckton-park", "to": "stn_cyprus", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_cyprus", "to": "stn_beckton-park", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_cyprus", "to": "stn_gallions-reach", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_gallions-reach", "to": "stn_cyprus", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_gallions-reach", "to": "stn_beckton", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_beckton", "to": "stn_gallions-reach", "mode": "tube/dlr", "cost": 90 },
+
+
+		{ "from": "stn_canning-town", "to": "stn_star-lane", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_star-lane", "to": "stn_canning-town", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_star-lane", "to": "stn_west-ham", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_west-ham", "to": "stn_star-lane", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_west-ham", "to": "stn_abbey-road", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_abbey-road", "to": "stn_west-ham", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_abbey-road", "to": "stn_stratford-high-street", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_stratford-high-street", "to": "stn_abbey-road", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_stratford-high-street", "to": "stn_stratford", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_stratford", "to": "stn_stratford-high-street", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_stratford", "to": "stn_stratford-international", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_stratford-international", "to": "stn_stratford", "mode": "tube/dlr", "cost": 90 },
+
+
+		{ "from": "stn_stratford", "to": "stn_pudding-mill-lane", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_pudding-mill-lane", "to": "stn_stratford", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_pudding-mill-lane", "to": "stn_bow-church", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_bow-church", "to": "stn_pudding-mill-lane", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_bow-church", "to": "stn_devons-road", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_devons-road", "to": "stn_bow-church", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_devons-road", "to": "stn_langdon-park", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_langdon-park", "to": "stn_devons-road", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_langdon-park", "to": "stn_all-saints", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_all-saints", "to": "stn_langdon-park", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_all-saints", "to": "stn_poplar", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_poplar", "to": "stn_all-saints", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_poplar", "to": "stn_west-india-quay", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_west-india-quay", "to": "stn_poplar", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_west-india-quay", "to": "stn_canary-wharf", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_canary-wharf", "to": "stn_west-india-quay", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_canary-wharf", "to": "stn_heron-quays", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_heron-quays", "to": "stn_canary-wharf", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_heron-quays", "to": "stn_south-quay", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_south-quay", "to": "stn_heron-quays", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_south-quay", "to": "stn_crossharbour", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_crossharbour", "to": "stn_south-quay", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_crossharbour", "to": "stn_mudchute", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_mudchute", "to": "stn_crossharbour", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_mudchute", "to": "stn_island-gardens", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_island-gardens", "to": "stn_mudchute", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_island-gardens", "to": "stn_cutty-sark", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_cutty-sark", "to": "stn_island-gardens", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_cutty-sark", "to": "stn_greenwich", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_greenwich", "to": "stn_cutty-sark", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_greenwich", "to": "stn_deptford-bridge", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_deptford-bridge", "to": "stn_greenwich", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_deptford-bridge", "to": "stn_elverson-road", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_elverson-road", "to": "stn_deptford-bridge", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_elverson-road", "to": "stn_lewisham", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_lewisham", "to": "stn_elverson-road", "mode": "tube/dlr", "cost": 90 },
+
+
+		{ "from": "stn_bow-church", "to": "stn_bow-road", "mode": "walk", "cost": 300 },
+		{ "from": "stn_bow-road", "to": "stn_bow-church", "mode": "walk", "cost": 300 },
+
+
+		{ "from": "stn_westferry", "to": "stn_west-india-quay", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_west-india-quay", "to": "stn_westferry", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_canning-town", "to": "stn_west-silvertown", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_west-silvertown", "to": "stn_canning-town", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_west-silvertown", "to": "stn_pontoon-dock", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_pontoon-dock", "to": "stn_west-silvertown", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_pontoon-dock", "to": "stn_london-city-airport", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_london-city-airport", "to": "stn_pontoon-dock", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_london-city-airport", "to": "stn_king-george-v", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_king-george-v", "to": "stn_london-city-airport", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_king-george-v", "to": "stn_woolwich-arsenal", "mode": "tube/dlr", "cost": 90 },
+		{ "from": "stn_woolwich-arsenal", "to": "stn_king-george-v", "mode": "tube/dlr", "cost": 90 }
 	]
 }
